@@ -19,6 +19,32 @@ For more information
 on SPICE please visit the
 [ESA SPICE Service (ESS) web site](https://www.cosmos.esa.int/web/spice/).
 
+![alt text](https://github.com/esaSPICEservice/ess_workshop_epsc2018/blob/master/remote_sensing_lesson/img/class_pic.jpg)
+Image courtesy of [Matt Brealey](https://twitter.com/badgrenola)
+
+Seminar Agenda
+---------------
+The agenda for the Seminar has been:
+
+* Introducing SPICE the cool way: Cosmographia.
+* Cosmographia & WebGeoCalc DEMO 
+* Brief introduction to ESS and ESA Planetary SKDs
+* Q & A
+* Remote Sensing Hands-on lesson
+* Q & A and close-out
+
+Repository Content
+---------------
+This repository contains the following files:
+* Jupyer Notebook introducing the use of SPICE
+* Presentations given at the EPSC conference:
+    * MTI3 EPSC2018-50 SPICE for ESA Planetary Missions: geometry and visualization suppor to studies, operations and data analysis 
+    * MTI3 EPSC2018-53 SPICE-based Python Packages for Solar System Exploration geometry exploitation.
+* Remote Sensing Lesson Directory
+    * NAIF Documentation for the lesson
+    * SPICE Kernels for the lesson
+    * Two Jupyter Notebooks: the original one and the working one of the workshop.
+
 Getting SPICE
 --------------
 
